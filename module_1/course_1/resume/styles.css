@@ -1,0 +1,27 @@
+.resume-header {
+    text-align: center;
+}
+
+.resume-header hr{
+    width: 50%;
+}
+
+.main-section{
+    display: inline-block;
+    width: 60%;
+}
+
+.section-title{
+    margin: 0;
+}
+
+.description {
+    font-family: 'Times New Roman', serif;
+    font-style: italic;
+}
+
+.date {
+    display: inline-block;
+    height: ;
+    text-align: right;
+}
